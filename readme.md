@@ -1,10 +1,25 @@
-learning 
+#learning
 
+##Install
 
+this is some installation instructions
 
+```bash
+npm install
+```
 
-faahhh
+##Run
 
-faahhh
+```bash
+npm start
+```
 
-faahhh
+##Test
+
+```bash
+npm test
+```
+
+##License
+
+xxx
